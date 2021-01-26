@@ -1,0 +1,8 @@
+echo Hello world
+ls
+pwd
+sleep 10 &
+cat commands.txt
+sleep 1 && ls && ps
+sleep 1 &&& ls &&& ps
+exit
